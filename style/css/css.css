@@ -12,7 +12,7 @@ ul,li,ol,h1,h2,h3,dl,dt,dd,form,p,b,u,s,i{list-style:none;margin:0; padding:0; f
 input,textarea{outline:none;border:0px;}/*去掉输入框得到焦点时边框会出现阴影效果----例如360 火狐*/
 a{blr:expression(this.onFocus=this.blur()); /* IE Opera */ outline:none; /* FF Opera */} a:focus{-moz-outline-style: none; /* FF */} /*去掉a标签超链接的虚线框*/
 .clearboth{clear:both}
-a:link{text-decoration: none;color: #FFF;}
+a:link{text-decoration: none;color: #777;}
 a:visited{text-decoration: none; color: #FFF;}
 a:hover{text-decoration: none; color: #313131;transition: all 0.3s ease-out 0s;}
 a:active{text-decoration: none; color: #404040;}
