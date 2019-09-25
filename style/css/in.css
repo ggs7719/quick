@@ -470,7 +470,7 @@ h4, h3 { font-weight: normal; }
 
 
 
- .pro_show_n li .info{ height: 48px;line-height: 48px;display: block;overflow: hidden; font-size: 16px;text-align: left; background: url(../images/pro_jt.jpg) no-repeat right center;position: absolute;top:261px;left:0px;width:100%;}
+ .pro_show_n li .info{ height: 48px;line-height: 48px;display: block;overflow: hidden; font-size: 16px;text-align: left; /*background: url(../images/pro_jt.jpg) no-repeat right center;*/position: absolute;top:261px;left:0px;width:100%;}
 
 
 
@@ -490,7 +490,7 @@ h4, h3 { font-weight: normal; }
 
 
 
- .pro_show_n li:hover .info a{color:#FFF;}
+ .pro_show_n li:hover .info a{color:#777;}
 
 
 
@@ -1098,7 +1098,7 @@ overflow:hidden;}
 
 
 
-.gg1_tel p{  padding-left: 60px;font-size: 14px;color:#FFF; }
+.gg1_tel p{  /*padding-left: 60px;*/font-size: 14px;color:#FFF; }
 
 
 
