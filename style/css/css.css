@@ -50,7 +50,7 @@ body{margin: 0px; color:#404040; background:#FFF; font-size: 14px; font-family:"
 .nav_bg li:hover a{color:#FFF;}
 .fixedNav{position: fixed;top: 0px; left: 0px; width: 100%; z-index: 100000;_position: absolute; _top: expression(eval(document.documentElement.scrollTop));}
 .end_dbg{background: url(../images/end_x.jpg) no-repeat top center #181818;height: 250px;}
-.end_left{width:950px;margin:80px 0 0 0;background: url(../images/end_tag.png) no-repeat left 10px;padding-left: 38px;} .end_left{color: #dedede;line-height: 32px;} .end_left a{color: #dedede;} .end_left h2{font-size: 14px;display: inline;} .end_ewm{width:153px;height: 153px;margin:80px 0 0 0;}
+.end_left{width:950px;margin:80px 0 0 0; padding-left: 38px;} .end_left{color: #dedede;line-height: 32px;} .end_left a{color: #dedede;} .end_left h2{font-size: 14px;display: inline;} .end_ewm{width:153px;height: 153px;margin:80px 0 0 0;}
 .end_ewm img{width:153px;height: 153px;} .end_char{background: url(../images/end_tx.jpg) no-repeat top center #f7f7f7;height: 108px;margin-top: 0px;line-height: 118px;overflow: hidden;} .end_char li{font-size: 16px;color: #222;float: left;width:238px;text-align: center;text-indent: 40px;} .end_char ul{width:105%;} ::selection{background-color: #313131; color:#FFF;}
 ::-moz-selection{background-color: #313131;color:#FFF;}
 ::-webkit-selection{background-color: #313131;color:#FFF;}
