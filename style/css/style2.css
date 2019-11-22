@@ -56,9 +56,7 @@
 	1.1 General  
 ----------------------------------------------- */
 
-.pic {width:200px; height:200px; overflow:hidden;}
-.pic img{transform:scale(1,1);transition: all 1s ease-out;}
-.pic img:hover{transform:scale(1.2,1.2);}
+
 
 
 body, html {
