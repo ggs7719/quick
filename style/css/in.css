@@ -1686,11 +1686,11 @@ padding:20px 30px;
 
 
 
-.fc_n .prev,.fc_n .next{ position:absolute; left:0%; top:16px;  display:block; width:50px; height:100px; background:url(../images/fc_left.jpg)  no-repeat;z-index: 10;   }
+.fc_n .prev,.fc_n .next{ position:absolute; left:0%; top:16px;  display:block; width:50px; height:100px; background:url(../images/fc_left2.jpg)  no-repeat;z-index: 10;   }
 
 
 
-.fc_n .next{ left:auto; right:0%;background:url(../images/fc_right.jpg)  no-repeat;  }
+.fc_n .next{ left:auto; right:0%;background:url(../images/fc_right2.jpg)  no-repeat;  }
 
 
 
