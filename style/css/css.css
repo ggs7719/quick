@@ -13,7 +13,7 @@ input,textarea{outline:none;border:0px;}/*去掉输入框得到焦点时边框�
 a{blr:expression(this.onFocus=this.blur()); /* IE Opera */ outline:none; /* FF Opera */} a:focus{-moz-outline-style: none; /* FF */} /*去掉a标签超链接的虚线框*/
 .clearboth{clear:both}
 a:link{text-decoration: none;color: #777;}
-a:visited{text-decoration: none; color: #FFF;}
+/*a:visited{text-decoration: none; color: #FFF;}*/
 a:hover{text-decoration: none; color: #313131;transition: all 0.3s ease-out 0s;}
 a:active{text-decoration: none; color: #404040;}
 em{font-style:normal;}

@@ -1341,7 +1341,7 @@ label.checkme {
 
 }
 .marquee:hover {
-    animation-play-state: paused
+    animation-play-state: paused;
 }
 
 /* Make it move */
