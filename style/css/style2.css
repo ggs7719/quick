@@ -130,7 +130,7 @@ hr {
 	padding: 5px 15px;
 }
 .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
-	background-color: #f39800;
+	background-color: #ee7800;
 	color: #fff;
 }
 ul {
@@ -474,7 +474,7 @@ h6 {
 	1.4 Button 
 ----------------------------------------------- */
 .btn {
-	background: #f39800 none repeat scroll 0 0;
+	background: #ee7800 none repeat scroll 0 0;
 	border-radius: 0;
 	color: #fff;
 	padding: 8px 20px;
@@ -774,7 +774,7 @@ input:focus, textarea:focus {
 	1.10 Timer
 ----------------------------------------------- */
 .timer div {
-	border: 2px solid #f39800;
+	border: 2px solid #ee7800;
 	color: #000;
 	display: inline-block;
 	font-family: "Microsoft YaHei", arial;
@@ -1028,7 +1028,7 @@ label.checkme {
 .mega-dropdown-menu > li ul > li > a:hover, .mega-dropdown-menu > li ul > li > a:focus {
 	text-decoration: none;
 	color: #fff;
-	background-color: #f39800;
+	background-color: #ee7800;
 }
 .mega-dropdown-menu .dropdown-header {
 	color: #000;
@@ -1050,19 +1050,19 @@ label.checkme {
 	text-transform: uppercase;
 }
 #menu > li > a:hover, #menu > li > a:focus {
-	background-color: #f39800;
+	background-color: #ee7800;
 	color: #fff;
 }
 #menu .mega-dropdown:hover > a, #menu .mega-dropdown > a:hover, #menu .mega-dropdown > a:focus, #menu .dropdown:hover > a {
-	background-color: #f39800;
+	background-color: #ee7800;
 	color: #fff;
 }
 .nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
-	background-color: #f39800;
+	background-color: #ee7800;
 	color: #fff;
 }
 #menu > li > a::before {
-	background: #f39800 none repeat scroll 0 0;
+	background: #ee7800 none repeat scroll 0 0;
 	bottom: 0;
 	content: "";
 	display: block;
@@ -1259,7 +1259,7 @@ label.checkme {
 	font-weight: 600;
 }
 .shopping-icon span {
-	color: #f39800;
+	color: #ee7800;
 }
 .shopping-icon:hover:before {
 	background: transparent url("../images/sprite.png") no-repeat scroll -102px -424px;
@@ -1361,7 +1361,7 @@ label.checkme {
 	font-style: normal;
 }
 .offers i {
-	color: #f39800;
+	color: #ee7800;
 	margin: 0 10px 0 30px;
 }
 .menu-bar {
@@ -1369,7 +1369,7 @@ label.checkme {
 	width: 100%;
 }
 .category {
-	background: #f39800 none repeat scroll 0 0;
+	background: #ee7800 none repeat scroll 0 0;
 	color: #fff;
 	font-size: 14px;
 	font-weight: 600;
@@ -1421,7 +1421,7 @@ label.checkme {
 	font-weight: 700;
 }
 .feature-i-left:hover h6 {
-	color: #f39800;
+	color: #ee7800;
 }
 .left-cms ul > li {
 	border-top: 3px solid #e5e5e5;
@@ -1446,7 +1446,7 @@ label.checkme {
 }
 input#amount {
 	border: 0;
-	color: #f39800;
+	color: #ee7800;
 	font-weight: 700;
 	font-size: 16px;
 	width: 140px;
@@ -1489,7 +1489,7 @@ input#amount {
 	padding: 8px 17px;
 }
 .Tags.left-sidebar-widget li:hover {
-	background: #f39800 none repeat scroll 0 0;
+	background: #ee7800 none repeat scroll 0 0;
 }
 .Tags.left-sidebar-widget li:hover a {
 	color: #fff;
@@ -1525,7 +1525,7 @@ input#amount {
 }
 .main-banner .owl-dot.active > span {
 	background: rgba(0, 0, 0, 0.0) none repeat scroll 0 0;
-	border: 2px solid #f39800;
+	border: 2px solid #ee7800;
 	border-radius: 50%;
 	display: inline-block;
 	height: 14px;
@@ -1556,7 +1556,7 @@ input#amount {
 	line-height: 1;
 }
 .bannertext > p {
-	color: #f39800;
+	color: #ee7800;
 	font-size: 14px;
 }
 .sub-hover {
@@ -1576,7 +1576,7 @@ input#amount {
 	font-weight: 700;
 }
 .main_title:after {
-	border-bottom: 3px solid #f39800;
+	border-bottom: 3px solid #ee7800;
 	content: "";
 	display: block;
 	margin-bottom: -3px;
@@ -1647,7 +1647,7 @@ input#amount {
 	3.2.5 Blog
 ----------------------------------------------- */
 .date-time {
-	background: #f39800 none repeat scroll 0 0;
+	background: #ee7800 none repeat scroll 0 0;
 	color: #fff;
 	font-weight: 700;
 	height: 50px;
@@ -1715,7 +1715,7 @@ article, .author {
 	margin-top: 0;
 }
 blockquote {
-	border-color: #f39800;
+	border-color: #ee7800;
 }
 /* ----------------------------------------------
 	3.2.7 Product + Category Page 
@@ -1908,7 +1908,7 @@ blockquote {
 	width: 36px;
 }
 .pagination-nav ul li.active a {
-	background: #f39800 none repeat scroll 0 0;
+	background: #ee7800 none repeat scroll 0 0;
 	color: #fff;
 }
 .pagination-nav ul li {
@@ -1931,7 +1931,7 @@ blockquote {
 	color: #b2b2b2;
 }
 .fa.fa-star.fa-stack-1x {
-	color: #f39800;
+	color: #ee7800;
 }
 #product-thumbnail .owl-nav {
 	top: 38px;
@@ -1958,7 +1958,7 @@ blockquote {
 .client .fa.fa-quote-left {
 	color: #ccc;
 	font-size: 14px;
-	color: #f39800;
+	color: #ee7800;
 	margin-right: 10px;
 }
 .client-title, .client-designation {
@@ -1995,7 +1995,7 @@ blockquote {
 	transition: 0.5s;
 }
 .owl-nav > div:hover {
-	border-color: #f39800;
+	border-color: #ee7800;
 }
 .owl-item .client-avatar > img {
 	border-radius: 50%;
@@ -2007,7 +2007,7 @@ blockquote {
 	right: 33px;
 }
 .owl-nav .owl-prev:hover {
-	background-color: #f39800;
+	background-color: #ee7800;
 	background-position: 9px -537px;
 	transition: 0.5s;
 }
@@ -2017,7 +2017,7 @@ blockquote {
 	right: 0;
 }
 .owl-nav .owl-next:hover {
-	background-color: #f39800;
+	background-color: #ee7800;
 	background-position: -33px -537px;
 	transition: 0.5s;
 }
