@@ -28,9 +28,9 @@
 .express-lane dl dd a:hover{color: #313131;}
 .bottom-contact .tel p span{color: #313131;}
 .cat-menu .menu-list .cur a,
-.cat-menu .menu-list span:hover a{background-color: #313131;}
+.cat-menu .menu-list span:hover a{background-color: #ee7800;}
 .cat-menu .menu-list .cur:before,
-.cat-menu .menu-list span:hover:before{border-top: 10px solid #313131;}
+.cat-menu .menu-list span:hover:before{border-top: 10px solid #ee7800;}
 .list01 .list01-top:hover .info .more{background-color: #313131; border: 1px solid #313131;}
 .list01 .list01-top .tag-hot{background-color: #313131;}
 .list01 .list ul li:hover{border: 1px solid #313131;}

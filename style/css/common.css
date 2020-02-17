@@ -149,8 +149,8 @@ li:hover .item-mask{opacity: 1; -webkit-transform: rotateX(0deg) scale(1, 1); tr
 .item-mask .item-link-icon{display: block; width: 38px; height: 38px; text-align: center; font-size: 22px; line-height: 38px; border: 1px solid rgba(255, 255, 255, .5); border-radius: 50%; position: absolute; left: 50%; top: 50%; margin-left: -21px; margin-top: -21px;}
  
 .image-list{margin-top: 45px; margin-bottom: 40px;}
-.image-list .content ul{width: 1230px;}
-.image-list .content ul li{float: left; width: 334px; padding: 20px; border: 1px solid #e4e4e4; margin-right: 26px; position: relative; -webkit-transition: all .8s ease-out; transition: all .8s ease-out;}
+.image-list .content ul{width: 1320px;}
+.image-list .content ul li{margin-left: 60px; float: left; width: 398px; padding: 10px; border: 1px solid #ee7800; margin-right: 0px; position: relative; -webkit-transition: all .8s ease-out; transition: all .8s ease-out;}
 .image-list .content ul li .border-top,
 .image-list .content ul li .border-right,
 .image-list .content ul li .border-bottom,
@@ -165,17 +165,17 @@ li:hover .item-mask{opacity: 1; -webkit-transform: rotateX(0deg) scale(1, 1); tr
 .image-list .content ul li:hover .border-left{height: 463px;}
 .image-list .content ul li .title-a{font-size: 18px; line-height: 35px; display: block; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;}
 .image-list .content ul li:hover .title-a{color: #f00;}
-.image-list .content ul li .img{width: 334px; height: 230px;}
+.image-list .content ul li .img{width: 340px; height: 230px;}
 .image-list .content ul li img{}
 .image-list .content ul li p{color: #999; text-indent: 2em; height: 69px; line-height: 23px; overflow: hidden; margin: 15px auto 35px;}
-.image-list .content ul li .more{display: block; width: 170px; height: 35px; line-height: 35px; text-align: center; margin: 0 auto; border: 1px solid #d0d0d0; -webkit-transition: all .8s ease-out; transition: all .8s ease-out;}
-.image-list .content ul li:hover .more{background-color: #f00; border: 1px solid #f00; color: #fff; -webkit-transition: all .3s ease-out; transition: all .3s ease-out;}
+.image-list .content ul li .more{color: #ee7800; display: block; width: 170px; height: 35px; line-height: 35px; text-align: center; margin: 0 auto; border: 1px solid #ee7800; -webkit-transition: all .8s ease-out; transition: all .8s ease-out;}
+.image-list .content ul li:hover .more{background-color: #ee7800; border: 1px solid #f00; color: #fff; -webkit-transition: all .3s ease-out; transition: all .3s ease-out;}
 .image-list .content ul li .more span{overflow: hidden; line-height: 35px; height: 35px; vertical-align: middle;}
-.image-list .content ul li .more i{_display: inline; *display: inline; display: inline-block; zoom: 1; width: 0; height: 35px; background-image: url(../images/bg2.gif); background-repeat: no-repeat; background-position: left center; vertical-align: middle; margin-left: 10px; -webkit-transition: all .8s ease-out; transition: all .8s ease-out;}
+.image-list .content ul li .more i{display: inline; *display: inline; display: inline-block; zoom: 1; width: 0; height: 35px; background-image: url(../images/bg2.gif); background-repeat: no-repeat; background-position: left center; vertical-align: middle; margin-left: 10px; -webkit-transition: all .8s ease-out; transition: all .8s ease-out;}
 .image-list .content ul li:hover .more i{width: 33px;}
 .image-list .tagcell{margin: 20px 0; text-align: center;}
-.image-list .tagcell span{_display: inline; *display: inline; display: inline-block; zoom: 1; background-color: #e3e3e3; width: 42px; height: 10px; line-height: 10px; border-radius: 5px; margin: 0 10px;}
-.image-list .tagcell .on{background-color: #a6a6a6;}
+.image-list .tagcell span{display: inline; display: inline; display: inline-block; zoom: 1; background-color: #e3e3e3; width: 42px; height: 10px; line-height: 10px; border-radius: 5px; margin: 0 10px;}
+.image-list .tagcell .on{background-color: #ee7800;}
  
 .text-list{margin-bottom: 40px;}
 .text-list ul li{float: left; width: 50%; border-top: 1px solid #e4e4e4; border-bottom: 1px solid #e4e4e4; position: relative; margin-bottom: -1px; z-index: 9}
@@ -221,8 +221,8 @@ li:hover .item-mask{opacity: 1; -webkit-transform: rotateX(0deg) scale(1, 1); tr
 .cat-menu .title{display: inline; color: #bbb; font-size: 24px; border-bottom: 1px solid #bbb; text-transform: uppercase;}
 .cat-menu .menu-list{margin-top: 20px;}
 .cat-menu .menu-list span{*display: inline; _display: inline; zoom: 1; display: inline-block; position: relative;}
-.cat-menu .menu-list span:before{display: block; content: ''; position: absolute; left: 50%; bottom: 10px; margin-left: -10px; width: 0; height: 0; border-left: 10px solid transparent; border-right: 10px solid transparent; border-top: 10px solid #333; z-index: 8; -webkit-transition: all .3s ease-out; transition: all .3s ease-out;}
-.cat-menu .menu-list span a{font-size: 16px; display: block; width: 150px; height: 35px; line-height: 35px; color: #fff; background-color: #333; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin: 10px 20px; position: relative; z-index: 9;}
+.cat-menu .menu-list span:before{display: block; content: ''; position: absolute; left: 50%; bottom: 10px; margin-left: -10px; width: 0; height: 0; border-left: 10px solid transparent; border-right: 10px solid transparent; border-top: 10px solid #ee7800; z-index: 8; -webkit-transition: all .3s ease-out; transition: all .3s ease-out;}
+.cat-menu .menu-list span a{font-size: 16px; display: block; width: 150px; height: 35px; line-height: 35px; color: #fff; background-color: #ee7800; text-align: center; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; margin: 10px 20px; position: relative; z-index: 9;}
 .cat-menu .menu-list .cur a,
 .cat-menu .menu-list span:hover a{background-color: #f00;}
 .cat-menu .menu-list .cur:before,
