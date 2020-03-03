@@ -14,7 +14,7 @@ a{blr:expression(this.onFocus=this.blur()); /* IE Opera */ outline:none; /* FF O
 .clearboth{clear:both}
 a:link{text-decoration: none;color: #777;}
 /*a:visited{text-decoration: none; color: #FFF;}*/
-a:hover{text-decoration: none; color: #313131;transition: all 0.3s ease-out 0s;}
+a:hover{text-decoration: none; color: #777;transition: all 0.3s ease-out 0s;}
 a:active{text-decoration: none; color: #404040;}
 em{font-style:normal;}
 .mainall{width:1180px; margin:0 auto; overflow:hidden;}
