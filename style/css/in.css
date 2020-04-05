@@ -342,7 +342,7 @@ h4, h3 { font-weight: normal; }
 
 
 
- .pro_dbg{background: #f1f1f1;height: 950px;}
+ .pro_dbg{background: #f1f1f1;height: 950px;width: 1180px;margin: 0 auto;}
 
 
 
@@ -1790,7 +1790,7 @@ padding:20px;
 
 
 
-.news_left{width:545px;margin-top: 40px;}
+.news_left{width:500px;margin-top: 40px;}
 
 
 
@@ -1894,7 +1894,7 @@ padding:20px;
 
 
 
-.cjwq{width:542px;margin-top: 40px;}
+.cjwq{width:500px;margin-top: 40px;}
 
 
 
